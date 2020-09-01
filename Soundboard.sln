@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2046
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soundboard", "Soundboard\Soundboard.csproj", "{C8C3F0B3-D375-4521-AC50-74C3E1AAB910}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{98A66E86-5B59-4A4F-915C-2BEB5C141735}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -15,6 +17,9 @@ Global
 		{C8C3F0B3-D375-4521-AC50-74C3E1AAB910}.Debug|x86.Build.0 = Debug|x86
 		{C8C3F0B3-D375-4521-AC50-74C3E1AAB910}.Release|x86.ActiveCfg = Release|x86
 		{C8C3F0B3-D375-4521-AC50-74C3E1AAB910}.Release|x86.Build.0 = Release|x86
+		{98A66E86-5B59-4A4F-915C-2BEB5C141735}.Debug|x86.ActiveCfg = Debug
+		{98A66E86-5B59-4A4F-915C-2BEB5C141735}.Release|x86.ActiveCfg = Release
+		{98A66E86-5B59-4A4F-915C-2BEB5C141735}.Release|x86.Build.0 = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

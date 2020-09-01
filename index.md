@@ -21,4 +21,10 @@ Run Soundboard.exe in Download path. This will send a file explorer, select the 
 While this is a relativaley easy download, there are still things that a novice user may need to know about this process. Depending on the application you wish to use this on (or if you just want to use it on your desktop) this I would like to provide a guide for the standard user to understand and follow.
   
 ### Tutorial
-To start, go through all the steps in the [installation](https://github.com/matthewschmude/Soundboard/blob/gh-pages/index.md#dependencies) section of this page.
+If you haven't make sure to read through the installation section of this page to install the app itself. 
+  
+After this the usage of the app depends on the device _VB-Audio Cable_. This is needed to be able to route one's sounds through their microphone.
+
+To install, go to [VB-Audio Virtual Apps](https://www.vb-audio.com/Cable/) and download the file for your specified OS. 
+The download page should look like this: 
+[vbinstall](https://gblobscdn.gitbook.com/assets%2F-LNZgv_0q7KdbiUKT8Dm%2F-LNa74oNoEkDdbfZr2U9%2F-LNa832boVO2iYSXjbBf%2Fvb-cable.png?alt=media&token=c67bcbda-88aa-4c4b-abad-a0122a4f8848)

@@ -1,4 +1,4 @@
-## Release
+## About
 This is a sound board application built in windows forms. It outputs audio through two selected audio out devices as to allow for the sound to be heard through the application using the sound device and the user themself (through their own local device). This was made to get around all of the unnecessary hoops that downloading a sound board comes with. This project provides a simple and clear way to import, store, and play sounds all at the expense of a 10 mb install. 
 
 ### Dependencies
@@ -17,6 +17,10 @@ Run Setup.exe in Setup/Release
  
 Run Soundboard.exe in Download path. This will send a file explorer, select the directory to want to get your sounds from.                                                                          
                                                                               ![soundDirectory](https://lh3.googleusercontent.com/proxy/UELzzlUmSpU5eddQjMKOQYIcW4wle8pBh42RSAntVq0Z10NYNhmdwaAPX1uW0a9rhelPU7WqZEpwsx8uZy7TfwTfGbqE)
+                                                                              
+<p align="center">
+  <img width="460" height="300" src="https://lh3.googleusercontent.com/proxy/UELzzlUmSpU5eddQjMKOQYIcW4wle8pBh42RSAntVq0Z10NYNhmdwaAPX1uW0a9rhelPU7WqZEpwsx8uZy7TfwTfGbqE">
+</p>
 
 **Output:** where you want audio to output (e.g. vb audio cable into microphone)  
 **Local Output:** output in which you recieve the audio (e.g. headphones)  

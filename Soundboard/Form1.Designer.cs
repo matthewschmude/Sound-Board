@@ -429,7 +429,7 @@
             this.volumeSlider1.BackColor = System.Drawing.SystemColors.Control;
             this.volumeSlider1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("volumeSlider1.BackgroundImage")));
             this.volumeSlider1.ImeMode = System.Windows.Forms.ImeMode.NoControl;
-            this.volumeSlider1.Location = new System.Drawing.Point(182, 496);
+            this.volumeSlider1.Location = new System.Drawing.Point(182, 461);
             this.volumeSlider1.Name = "volumeSlider1";
             this.volumeSlider1.Size = new System.Drawing.Size(482, 27);
             this.volumeSlider1.TabIndex = 36;
@@ -490,7 +490,7 @@
             this.vol2.BackColor = System.Drawing.SystemColors.Control;
             this.vol2.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("vol2.BackgroundImage")));
             this.vol2.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.vol2.Location = new System.Drawing.Point(182, 461);
+            this.vol2.Location = new System.Drawing.Point(182, 494);
             this.vol2.Name = "vol2";
             this.vol2.Size = new System.Drawing.Size(482, 29);
             this.vol2.TabIndex = 36;

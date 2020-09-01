@@ -4,7 +4,7 @@ This is a sound board application built in windows forms. It outputs audio throu
 ### Dependencies
 The primary dependency used is [NAudio](https://archive.codeplex.com/?p=naudio). While the documentation of it was lackluster if not for stackoverflow, this provided a specialized and advanced solution to converting audio files and outputing through audio devices. Although the integration was difficult due to the dependency's weak official documentation, I believe the integration of this specifically was crucial to the final product.
 
-![naudio](https://www.google.com/url?sa=i&url=https%3A%2F%2Fawesomeopensource.com%2Fproject%2Fnaudio%2FNAudio&psig=AOvVaw1YSRn61dT41lQs_OwuvPfJ&ust=1599088102874000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKjFgsaJyesCFQAAAAAdAAAAABAD)
+![naudio](https://raw.githubusercontent.com/naudio/NAudio/master/naudio-logo.png)
 
 However, with over 100 integrated dependencies the simple to use installer, found in Setup/Release, installs all necessary files imperative to the speed and usage of this product automatically. This build allows for quick and simple navigation to the sound board itself. After installing, 'Soundboard.exe' found in the downloaded project folder is the only file (along with the installed dependencies) needed to run the application.
 
@@ -16,7 +16,7 @@ Run Setup.exe in Setup/Release
  - select download path
  
 Run Soundboard.exe in Download path. This will send a file explorer, select the directory to want to get your sounds from.
-![soundDirectory](https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.functionx.com%2Fvbnet%2Fcontrols%2FFolderBrowserDialog.htm&psig=AOvVaw2G78uLFzSx7Xhv7vacRZjy&ust=1599088170212000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLiPv-qJyesCFQAAAAAdAAAAABAe)
+![soundDirectory](https://lh3.googleusercontent.com/proxy/UELzzlUmSpU5eddQjMKOQYIcW4wle8pBh42RSAntVq0Z10NYNhmdwaAPX1uW0a9rhelPU7WqZEpwsx8uZy7TfwTfGbqE)
 
 **Output:** where you want audio to output (e.g. vb audio cable into microphone)  
 **Local Output:** output in which you recieve the audio (e.g. headphones)  

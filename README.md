@@ -1,5 +1,6 @@
 Winforms .NET Core Soundboard written in C#.
 Supports only mp3 and wave files; more coming soon.
+
 Run Setup.exe in Setup/Release
  - may take a minute to load 
  - allow admin 

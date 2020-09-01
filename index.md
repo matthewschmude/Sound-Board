@@ -13,32 +13,12 @@ Run Setup.exe in Setup/Release
  - allow admin
  - select download path
  
-Run Soundboard.exe in Download path.  
-This will send a file explorer, select the directory to want to get your sounds from.
+Run Soundboard.exe in Download path. This will send a file explorer, select the directory to want to get your sounds from.
 
-**Output:** where you want audio to output (e.g. vb audio cable into microphone)
-**Local Output:** output in which you recieve the audio (e.g. headphones)
+**Output:** where you want audio to output (e.g. vb audio cable into microphone)  
+**Local Output:** output in which you recieve the audio (e.g. headphones)  
 
-```
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/matthewschmude/Soundboard/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+While this is a relativaley easy download, there are still things that a novice user may need to know about this process. Depending on the application you wish to use this on (or if you just want to use it on your desktop) this I would like to provide a guide for the standard user to understand and follow.
+  
+### Tutorial
+To start, go through all the steps in the [installation]() section of this page.

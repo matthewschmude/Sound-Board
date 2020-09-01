@@ -40,6 +40,20 @@ The download page should look like this:
   
 Follow the steps in the installation wizard to download the two audio devices included in _VB-Audio Cable_.
 
-  - Next Open Sound Settings and navigate to 'Sound Control Panel'.  
-  - Locate your main audio input device and right click to go to its properties.
-  - 
+To set up the audio cable:
+  - Open Sound Settings and navigate to 'Sound Control Panel'.  
+  - Now select the 'Recording' tab located to the right of the 'Playback' Tab
+  - Find your main Audio Output device you are using for your application and navigate to its properties
+  - Next select the 'Listen' Tab at the top, just to the right of the 'General' tab
+  - Check the box which says "Listen to this device" and in the drop down menu below, select the VB-Audio Cable Input
+  - Apply settings and exit
+  
+The last step is to just change the audio input device whatever application you wish to use the sound board on to the VB-Audio Output Device.
+
+Personally, I would reccomend messing around with the input volume of the VB-Audio Cable as depending on the device, the volume of your microphone inputs may be increased or decreased while being sent through the devices.
+  
+This process works by listening to the audio from you microphone on the VB-Audio Input Device, then sending all the audio from that device to the VB-Audio Output Device.
+This intuitive design allows the user to select the VB-Audio Input Device in the sound board application to send sounds through - those of which are sent to VB-Audio Output, along with any incoming sound from one's microphone, and thus put through the input device of whatever application has VB-Audio Output selected.
+
+### Use Cases
+This app can be used in tandem with VB-Audio Cable in all applications that require an audio input device, such as Discord, Skype, Google Meets, Zoom, Microsoft Teams, and more.

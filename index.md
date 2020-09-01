@@ -1,6 +1,8 @@
 ## About
 This is a sound board application built in windows forms. It outputs audio through two selected audio out devices as to allow for the sound to be heard through the application using the sound device and the user themself (through their own local device). This was made to get around all of the unnecessary hoops that downloading a sound board comes with. This project provides a simple and clear way to import, store, and play sounds all at the expense of a 10 mb install. 
 
+If any bugs or random crashes are encountered, feel free to comment or send a pull-request on the [github provided].
+
 ### Dependencies
 The primary dependency used is [NAudio](https://archive.codeplex.com/?p=naudio). While the documentation of it was lackluster if not for stackoverflow, this provided a specialized and advanced solution to converting audio files and outputing through audio devices. Although the integration was difficult due to the dependency's weak official documentation, I believe the integration of this specifically was crucial to the final product.
 
@@ -48,6 +50,10 @@ To set up the audio cable:
   - Check the box which says "Listen to this device" and in the drop down menu below, select the VB-Audio Cable Input
   - Apply settings and exit
   
+<p align="center">
+  <img width="512" height="382" src="https://lh3.googleusercontent.com/proxy/dxTu3OcLQMV4Bhfhr7vgDmrSMnH_DlOThJ2wvxH27MpzwWZb_d3nNVvtANqKxq9gbaajBV_79dacrxmZesXj47aWiZG3d6ZkYK9n1JdfgYJvxXpn0gnWviwhtM0O_OXnRCLGqv6jM78a2sAxt3fc8q_lOBE1xzR5dU9_c6wNGsJ5xgc7mWHlsolz4o-585vkfKuZtvqj2A">
+</p>
+ 
 The last step is to just change the audio input device whatever application you wish to use the sound board on to the VB-Audio Output Device.
 
 Personally, I would reccomend messing around with the input volume of the VB-Audio Cable as depending on the device, the volume of your microphone inputs may be increased or decreased while being sent through the devices.

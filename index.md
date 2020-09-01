@@ -21,4 +21,4 @@ Run Soundboard.exe in Download path. This will send a file explorer, select the 
 While this is a relativaley easy download, there are still things that a novice user may need to know about this process. Depending on the application you wish to use this on (or if you just want to use it on your desktop) this I would like to provide a guide for the standard user to understand and follow.
   
 ### Tutorial
-To start, go through all the steps in the [installation]() section of this page.
+To start, go through all the steps in the [installation](https://github.com/matthewschmude/Soundboard/blob/gh-pages/index.md#dependencies) section of this page.

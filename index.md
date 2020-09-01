@@ -4,7 +4,9 @@ This is a sound board application built in windows forms. It outputs audio throu
 ### Dependencies
 The primary dependency used is [NAudio](https://archive.codeplex.com/?p=naudio). While the documentation of it was lackluster if not for stackoverflow, this provided a specialized and advanced solution to converting audio files and outputing through audio devices. Although the integration was difficult due to the dependency's weak official documentation, I believe the integration of this specifically was crucial to the final product.
 
-![naudio](https://raw.githubusercontent.com/naudio/NAudio/master/naudio-logo.png)
+<p align="center">
+  <img width="619" height="143" src="https://raw.githubusercontent.com/naudio/NAudio/master/naudio-logo.png">
+</p>
 
 However, with over 100 integrated dependencies the simple to use installer, found in Setup/Release, installs all necessary files imperative to the speed and usage of this product automatically. This build allows for quick and simple navigation to the sound board itself. After installing, 'Soundboard.exe' found in the downloaded project folder is the only file (along with the installed dependencies) needed to run the application.
 
@@ -33,4 +35,7 @@ After this the usage of the app depends on the device _VB-Audio Cable_. This is 
 
 To install, go to [VB-Audio Virtual Apps](https://www.vb-audio.com/Cable/) and download the file for your specified OS. 
 The download page should look like this: 
-![vbInstall](https://gblobscdn.gitbook.com/assets%2F-LNZgv_0q7KdbiUKT8Dm%2F-LNa74oNoEkDdbfZr2U9%2F-LNa832boVO2iYSXjbBf%2Fvb-cable.png?alt=media&token=c67bcbda-88aa-4c4b-abad-a0122a4f8848)
+
+<p align="center">
+  <img width="941" height="486" src="https://gblobscdn.gitbook.com/assets%2F-LNZgv_0q7KdbiUKT8Dm%2F-LNa74oNoEkDdbfZr2U9%2F-LNa832boVO2iYSXjbBf%2Fvb-cable.png?alt=media&token=c67bcbda-88aa-4c4b-abad-a0122a4f8848">
+</p>

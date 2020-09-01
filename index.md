@@ -41,3 +41,4 @@ The download page should look like this:
 </p>
 test
 test
+test double

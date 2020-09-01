@@ -15,8 +15,9 @@ Run Setup.exe in Setup/Release
  - allow admin
  - select download path
  
-Run Soundboard.exe in Download path. This will send a file explorer, select the directory to want to get your sounds from.  
-                                                                               ![soundDirectory](https://lh3.googleusercontent.com/proxy/UELzzlUmSpU5eddQjMKOQYIcW4wle8pBh42RSAntVq0Z10NYNhmdwaAPX1uW0a9rhelPU7WqZEpwsx8uZy7TfwTfGbqE)
+Run Soundboard.exe in Download path. This will send a file explorer, select the directory to want to get your sounds from.                                                                          
+
+                                                                              ![soundDirectory](https://lh3.googleusercontent.com/proxy/UELzzlUmSpU5eddQjMKOQYIcW4wle8pBh42RSAntVq0Z10NYNhmdwaAPX1uW0a9rhelPU7WqZEpwsx8uZy7TfwTfGbqE)
 
 **Output:** where you want audio to output (e.g. vb audio cable into microphone)  
 **Local Output:** output in which you recieve the audio (e.g. headphones)  

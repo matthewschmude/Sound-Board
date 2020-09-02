@@ -7,7 +7,7 @@ If any bugs or random crashes are encountered, feel free to comment or send a pu
 The primary dependency used is [NAudio](https://archive.codeplex.com/?p=naudio). While the documentation of it was lackluster if not for stackoverflow, this provided a specialized and advanced solution to converting audio files and outputing through audio devices. Although the integration was difficult due to the dependency's weak official documentation, I believe the integration of this specifically was crucial to the final product.
 
 
-<a href="https://archive.codeplex.com/?p=naudio">
+<a href="https://archive.codeplex.com/?p=naudio/">
   <p align="center">
     <img width="619" height="143" src="https://raw.githubusercontent.com/naudio/NAudio/master/naudio-logo.png">
   </p>
@@ -44,6 +44,13 @@ The download page should look like this:
 <a href="https://www.vb-audio.com/Cable/">
   <p align="center">
     <img width="627" height="324" src="https://gblobscdn.gitbook.com/assets%2F-LNZgv_0q7KdbiUKT8Dm%2F-LNa74oNoEkDdbfZr2U9%2F-LNa832boVO2iYSXjbBf%2Fvb-cable.png?       alt=media&token=c67bcbda-88aa-4c4b-abad-a0122a4f8848">
+  </p>
+</a>
+
+
+<a href="https://archive.codeplex.com/?p=naudio/">
+  <p align="center">
+    <img width="619" height="143" src="https://raw.githubusercontent.com/naudio/NAudio/master/naudio-logo.png">
   </p>
 </a>
   

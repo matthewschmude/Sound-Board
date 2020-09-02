@@ -6,12 +6,11 @@ If any bugs or random crashes are encountered, feel free to comment or send a pu
 ### Dependencies
 The primary dependency used is [NAudio](https://archive.codeplex.com/?p=naudio). While the documentation of it was lackluster if not for stackoverflow, this provided a specialized and advanced solution to converting audio files and outputing through audio devices. Although the integration was difficult due to the dependency's weak official documentation, I believe the integration of this specifically was crucial to the final product.
 
-
-<a href="https://archive.codeplex.com/?p=naudio/">
-  <p align="center">
+<p align="center">
+  <a href="https://archive.codeplex.com/?p=naudio/">
     <img width="619" height="143" src="https://raw.githubusercontent.com/naudio/NAudio/master/naudio-logo.png">
-  </p>
-</a>
+  </a>
+</p>
 
 However, with over 100 integrated dependencies the simple to use installer, found in Setup/Release, installs all necessary files imperative to the speed and usage of this product automatically. This build allows for quick and simple navigation to the sound board itself. After installing, 'Soundboard.exe' found in the downloaded project folder is the only file (along with the installed dependencies) needed to run the application.
 

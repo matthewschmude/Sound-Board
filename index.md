@@ -7,7 +7,7 @@ If any bugs or random crashes are encountered, feel free to comment or send a pu
 The primary dependency used is [NAudio](https://archive.codeplex.com/?p=naudio). While the documentation of it was lackluster if not for stackoverflow, this provided a specialized and advanced solution to converting audio files and outputing through audio devices. Although the integration was difficult due to the dependency's weak official documentation, I believe the integration of this specifically was crucial to the final product.
 
 <p align="center">
-  <a href="https://archive.codeplex.com/?p=naudio/">
+  <a href="https://archive.codeplex.com/?p=naudio">
     <img width="619" height="143" src="https://raw.githubusercontent.com/naudio/NAudio/master/naudio-logo.png">
   </a>
 </p>

@@ -1,7 +1,7 @@
-## About
+## Release
 This is a sound board application built in windows forms. It outputs audio through two selected audio out devices as to allow for the sound to be heard through the application using the sound device and the user themself (through their own local device). This was made to get around all of the unnecessary hoops that downloading a sound board comes with. This project provides a simple and clear way to import, store, and play sounds all at the expense of a 10 mb install. 
 
-If any bugs or random crashes are encountered, feel free to comment or send a pull-request on the [github provided].
+If any bugs or random crashes are encountered, feel free to comment or send a pull-request on the [github provided](https://github.com/matthewschmude/Sound-Board).
 
 ### Dependencies
 The primary dependency used is [NAudio](https://archive.codeplex.com/?p=naudio). While the documentation of it was lackluster if not for stackoverflow, this provided a specialized and advanced solution to converting audio files and outputing through audio devices. Although the integration was difficult due to the dependency's weak official documentation, I believe the integration of this specifically was crucial to the final product.

@@ -38,7 +38,9 @@ After this the usage of the app depends on the device _VB-Audio Cable_. This is 
 To install, go to [VB-Audio Virtual Apps](https://www.vb-audio.com/Cable/) and download the file for your specified OS. 
 The download page should look like this: 
 
-![vbInstall](https://gblobscdn.gitbook.com/assets%2F-LNZgv_0q7KdbiUKT8Dm%2F-LNa74oNoEkDdbfZr2U9%2F-LNa832boVO2iYSXjbBf%2Fvb-cable.png?alt=media&token=c67bcbda-88aa-4c4b-abad-a0122a4f8848)
+<p align="center">
+  <img width="885" height="442" src="https://gblobscdn.gitbook.com/assets%2F-LNZgv_0q7KdbiUKT8Dm%2F-LNa74oNoEkDdbfZr2U9%2F-LNa832boVO2iYSXjbBf%2Fvb-cable.png?alt=media&token=c67bcbda-88aa-4c4b-abad-a0122a4f8848">
+</p>
   
 Follow the steps in the installation wizard to download the two audio devices included in _VB-Audio Cable_.
 

@@ -64,5 +64,9 @@ This intuitive design allows the user to select the VB-Audio Input Device in the
 ### Use Cases
 This app can be used in tandem with VB-Audio Cable in all applications that require an audio input device, such as Discord, Skype, Google Meets, Zoom, Microsoft Teams, and more.
 
+<p align="center">
+  <img src="https://discord.com/assets/2c21aeda16de354ba5334551a883b481.png" width="49" height="50" /> <img src="https://1000logos.net/wp-content/uploads/2017/06/Skype-Logo.png" width="273" height="119" />
+</p>
+
 <img src="https://discord.com/assets/2c21aeda16de354ba5334551a883b481.png" width="49" height="50" />
 

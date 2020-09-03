@@ -24,7 +24,7 @@ Run Setup.exe in Setup/Release
 Run Soundboard.exe in Download path. This will send a file explorer, select the directory to want to get your sounds from.
   
 <p align="center">
-  <img width="326" height="363" src="https://i.stack.imgur.com/Y5zXQ.png">
+  <img width="269" height="262" src="https://i.stack.imgur.com/Y5zXQ.png">
 </p>
   
 **Output:** where you want audio to output (e.g. vb audio cable into microphone)  
